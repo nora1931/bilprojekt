@@ -2,8 +2,14 @@ body {
     background-color: aqua;
 }
 
-h1 {}
+h1 {
+    text-align: center;
+}
 
-h2 {}
+h2 {
+    text-align: center;
+}
 
-p {}
+p {
+    text-align: center;
+}
